@@ -1,3 +1,5 @@
+# EDITAR ARXIU
+
 
 número = int(input("introdueix el número: "))
 
